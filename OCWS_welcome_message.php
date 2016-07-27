@@ -3,7 +3,7 @@
 Plugin Name: OCWS Admin Bar Greeting
 Plugin URI: http://oldcastleweb.com/pws/plugins
 Description: This plugin enables the admin bar welcome message, which says "howdy" by default, to be changed to something more appropriate. the plugin has been produced by <a href="http://www.oldcastleweb.com" target="_blank">Old Castle Web Solutions</a>.<br /><br />The plugin class file contains some experimental code, currently commented out. Explanations of this code are given in the file concerned.
-Version: 1.5.1
+Version: 1.6
 Author: Paul Taylor
 Author URI: http://oldcastleweb.com/pws/about
 License: GPL2
