@@ -3,12 +3,12 @@ Contributors: pftaylor61
 Donate link: http://oldcastleweb.com/
 Tags: admin bar, greeting message
 Requires at least: 3.2
-Tested up to: 3.5.1
-Stable tag: 1.2
+Tested up to: 4.6
+Stable tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin enables the user to replace the ‘howdy’ greeting on the admin bar.
+This plugin enables the user to replace the â€˜howdyâ€™ greeting on the admin bar.
 
 == Description ==
 
@@ -41,6 +41,12 @@ I will do some further work, even though it is meant to be asimple plugin. That 
 2. A close-up of the greeting produced.
 
 == Changelog ==
+
+= 1.6 =
+Tested up to WP 4.6
+
+= 1.5 = 
+Tested on Github
 
 = 1.2 = The plugin now has a proper Settings link, which it didn't have before.
 
