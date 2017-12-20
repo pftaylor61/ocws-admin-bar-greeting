@@ -3,6 +3,9 @@
 # Admin Bar Greeting
 ocws-admin-bar-greeting
 
+## Version 1.6.1
+Plugin Icon included
+
 ## Version 1.6
 Updated and tested for Wordpress 4.6
 
